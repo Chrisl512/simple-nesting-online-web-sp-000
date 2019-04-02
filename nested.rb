@@ -61,7 +61,7 @@ def dennis_ritchies_language
 end
 
 def adding_matz
-  matz =
+  
 	  {
 			  :yukihiro_matsumoto => {
           :known_for => "Ruby",
