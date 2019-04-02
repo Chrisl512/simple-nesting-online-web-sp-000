@@ -61,7 +61,7 @@ def dennis_ritchies_language
 end
 
 def adding_matz
-
+  matz =
 	  {
 			  :yukihiro_matsumoto => {
           :known_for => "Ruby",
@@ -85,7 +85,7 @@ def adding_matz
         }
 
      }
-  programmer_hash << :yukihiro_matsumoto
+  programmer_hash << matz
 
 end
 
